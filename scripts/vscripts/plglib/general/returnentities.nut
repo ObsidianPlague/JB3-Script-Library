@@ -1,4 +1,4 @@
-function ReturnEntityList(ent, IsClass = false, max = 0)
+function ReturnEntityList(ent, IsClass = true, max = 0)
 {
 	local arr = [];
 	if (max > 0)
