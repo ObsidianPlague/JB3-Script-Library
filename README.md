@@ -5,7 +5,7 @@ Various scripts for use in [Jabroni Brawl: Episode 3](https://store.steampowered
 - Q: Wil you make Lua versions of these scripts?
 - A: If possible, yes, it will happen.
 
-- Q: Can you make a script for <thing>?
+- Q: Can you make a script for (thing)?
 - A: Probably, just ask!
 
 - Q: It doesn't work!
