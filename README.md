@@ -1,5 +1,5 @@
 # JB3 Script Library
-Various utilities for use in [Jabroni Brawl: Episode 3](https://store.steampowered.com/app/869480/Jabroni_Brawl_Episode_3/) mapping.
+Various scripts for use in [Jabroni Brawl: Episode 3](https://store.steampowered.com/app/869480/Jabroni_Brawl_Episode_3/) mapping.
 
 # FAQ
 - Q: Wil you make Lua versions of these scripts?
